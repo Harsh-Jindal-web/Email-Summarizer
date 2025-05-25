@@ -32,7 +32,7 @@ A Python application that listens for new unread Gmail emails, summarizes their 
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/yourusername/email_summarizer.git
+git clone https://github.com/Harsh-Jindal-web/Email-Summarizer.git
 cd email_summarizer
 ```
 
